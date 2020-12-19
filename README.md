@@ -4,7 +4,7 @@ software system being a customisation of the FAO SOLA Community Server software
 Land Equity Internation working with the United Treaty Council.
 For more information refer to www.alur.world 
 
-ALUR uses 7 Git repositories for managing its code base. These
+ALUR uses 8 Git repositories for managing its code base. These
 repositories are:
 
 1) code      - This repository. Contains the Main POM file and
@@ -24,7 +24,9 @@ repositories are:
 6) database - Contains the ALUR sola database creation scripts. Attached relative
                to the code repository in the ../database directory.
 7) docker   - Contains the dockerfiles and docker-compose and other files
-              associated with installing ALUR usind Docker
+              associated with installing ALUR usind Docker. 
+8) reports  - Contains the JasperReports jrxml and associated resource files
+              for the ALUR certificate and reports
 
 Each repository can be managed independently, although when a change
 spans more than one repository, ensuring the changes remain
