@@ -4,13 +4,13 @@ common/messaging/
 services/
 ../database/
 
-# Identifies the subfolders and files to ignore from the 
+# Identifies the subfolders and files to ignore from the
 # Subfolders to ignore
 target/
 logs/
 wsdl/
 
-# Files to ignore 
+# Files to ignore
 catalog.xml
 Thumbs.db
 thumbs.db
@@ -18,3 +18,7 @@ thumbs.db
 *.log
 msg.txt
 *.jks
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
