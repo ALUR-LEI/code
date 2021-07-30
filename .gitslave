@@ -4,3 +4,4 @@
 "../boundary" "services/boundary"
 "../database" "../database"
 "../reports" "../reports"
+"../docker" "../docker"
