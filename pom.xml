@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.sola.cs</groupId>
     <artifactId>sola-cs-main</artifactId>
-    <version>2105a</version>
+    <version>2305a</version>
     <packaging>pom</packaging>
     <name>Main CS POM</name>
     <properties>
